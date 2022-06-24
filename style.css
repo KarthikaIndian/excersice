@@ -1,0 +1,275 @@
+.row
+{
+    height: 50px;
+    width: 100%;
+  
+}
+.col1
+{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(237, 41, 73);
+   float: left;
+}
+ .col2
+{
+   
+    height: 100%;
+    width: 50%;
+    background-color: rgb(232, 192, 255);
+float: right;
+} 
+.col{
+width: 25%;
+height: 100%;
+background-color: brown;
+float: left;
+}
+.co2{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(30, 120, 55);
+    float: left;
+    }
+    .co3{
+        width: 25%;
+        height: 100%;
+        background-color: rgb(30, 120, 55);
+        float: left;
+        }
+        .co3{
+            width: 25%;
+            height: 100%;
+            background-color: rgb(37, 115, 205);
+            float: left;
+            
+        }
+ .co4{
+            width: 25%;
+            height: 100%;
+            background-color: rgb(185, 153, 24);
+            float: left;
+   }
+            
+    .c1{
+                width: 33%;
+                height: 100%;
+                background-color: rgb(45, 21, 118);
+                float: left;
+                }
+ .c2{
+                width: 33%;
+                height: 100%;
+                background-color: rgb(178, 176, 43);
+                float: left;
+                }
+        
+   .c3{
+                width: 34%;
+                height: 100%;
+                background-color: rgb(1, 167, 144);
+                float: left;
+                }
+                .ce1{
+                    width: 75%;
+                    height: 100%;
+                    background-color: rgb(18, 18, 184);
+                    float: left;
+                    }         
+                    
+                    .ce2{
+                        width: 25%;
+                        height: 100%;
+                        background-color: rgb(193, 104, 31);
+                        float: left;
+                        }
+                        .cee1{
+                            width: 20%;
+                            height: 100%;
+                            background-color: rgb(31, 221, 40);
+                            float: left;
+                            }
+                            .cee2{
+                                width: 80%;
+                                height: 100%;
+                                background-color: rgb(193, 31, 107);
+                                float: left;
+                                }
+                
+
+                                .ci1{
+                                    width: 40%;
+                                    height: 100%;
+                                    background-color: rgb(80, 31, 193);
+                                    float: left;
+                                    }    
+
+                 .ci2{
+                                        width: 30%;
+                                        height: 100%;
+                                        background-color: rgb(212, 175, 41);
+                                        float: left;
+                     }    
+                    .ci3{
+                                            width: 30%;
+                                            height: 100%;
+                                            background-color: rgb(199, 234, 25);
+                                            float: left;
+                                            }  
+                                            .cp{
+                                                width: 20%;
+                                                height: 100%;
+                                                background-color: rgb(75, 41, 212);
+                                                float: left;
+                                                }  
+                                                .cp2{
+                                                    width: 20%;
+                                                    height: 100%;
+                                                    background-color: rgb(75, 41, 212);
+                                                    float: left;
+                                                    }  
+
+
+                                                    .cp3{
+                                                        width: 20%;
+                                                        height: 100%;
+                                                        background-color: rgb(41, 212, 69);
+                                                        float: left;
+                                                        }
+                                                          .cp4
+                                                        {
+                                                            width: 20%;
+                                                            height: 100%;
+                                                            background-color: rgb(138, 142, 56);
+                                                            float: left;
+                                                            }  
+
+               
+                                            
+
+                                            
+                                
+                                                            .cp5{
+                                                                width: 20%;
+                                                                height: 100%;
+                                                                background-color: rgb(212, 41, 169);
+                                                                float: left;
+                                                                }  
+        
+                                                                
+                                                                .ck2{
+                                                                    width: 10%;
+                                                                    height: 100%;
+                                                                    background-color: rgb(41, 212, 206);
+                                                                    float: left;
+                                                                    } 
+                                                                    
+                                                                    .ck3{
+                                                                        width: 10%;
+                                                                        height: 100%;
+                                                                        background-color: rgb(166, 212, 41);
+                                                                        float: left;
+                                                                        } 
+                                                                        .ck4{
+                                                                            width: 10%;
+                                                                            height: 100%;
+                                                                            background-color: rgb(121, 41, 212);
+                                                                            float: left;
+                                                                            } 
+                                                                            .ck5{
+                                                                                width: 10%;
+                                                                                height: 100%;
+                                                                                background-color: rgb(41, 212, 69);
+                                                                                float: left;
+                                                                                } 
+                                                                                .ck6{
+                                                                                    width: 10%;
+                                                                                    height: 100%;
+                                                                                    background-color: rgb(223, 118, 31);
+                                                                                    float: left;
+                                                                                    } 
+                                                                                    .ck7{
+                                                                                        width: 10%;
+                                                                                        height: 100%;
+                                                                                        background-color: rgb(212, 41, 178);
+                                                                                        float: left;
+                                                                                        } 
+                                                                                        .ck8{
+                                                                                            width: 10%;
+                                                                                            height: 100%;
+                                                                                            background-color: rgb(41, 212, 206);
+                                                                                            float: left;
+                                                                                            } 
+                                                                                            .ck9{
+                                                                                                width: 10%;
+                                                                                                height: 100%;
+                                                                                                background-color: rgb(117, 5, 5);
+                                                                                                float: left;
+                                                                                                } 
+                                                                                         .ck10{
+                                                                                                    width: 10%;
+                                                                                                    height: 100%;
+                                                                                                    background-color: rgb(51, 43, 87);
+                                                                                                    float: left;
+                                                                                                    } 
+                                                                                                    .ck1{
+                                                                                                        width: 10%;
+                                                                                                        height: 100%;
+                                                                                                        background-color: rgb(146, 219, 2);
+                                                                                                        float: left;
+                                                                                                        } 
+                                                                                                        .cke1{
+                                                                                                            width: 10%;
+                                                                                                            height: 100%;
+                                                                                                            background-color: rgb(234, 28, 28);
+                                                                                                            float: left;
+                                                                                                            } 
+                                                                                                        .cke2{
+                                                                                                            width: 90%;
+                                                                                                            height: 100%;
+                                                                                                            background-color: rgb(6, 150, 202);
+                                                                                                            float: left;
+                                                                                                            } 
+                
+                
+                                                                                                            
+                                                                                                            .a1{
+                                                                                                                width: 90%;
+                                                                                                                height: 100%;
+                                                                                                                background-color: rgb(23, 186, 39);
+                                                                                                                float: left;
+                                                                                                                }
+                                                                                                                .a2{
+                                                                                                                    width: 10%;
+                                                                                                                    height: 100%;
+                                                                                                                    background-color: rgb(139, 10, 119);
+                                                                                                                    float: left;
+                                                                                                                    }  
+                                                                                                                    .k1{
+                                                                                                                        width: 45%;
+                                                                                                                        height: 100%;
+                                                                                                                        background-color: rgb(215, 218, 33);
+                                                                                                                        float: left;
+                                                                                                                        }  
+                                                                                                                        .k2{
+                                                                                                                            width: 35%;
+                                                                                                                            height: 100%;
+                                                                                                                            background-color: rgb(139, 10, 119);
+                                                                                                                            float: left;
+                                                                                                                            }  
+                                                                                                                            .kt{
+                                                                                                                                width: 20%;
+                                                                                                                                height: 100%;
+                                                                                                                                background-color: rgb(115, 218, 26);
+                                                                                                                                float: left;
+                                                                                                                                }  
+
+
+
+
+                    
+                        
+
+
+                                                                             
+                                                
